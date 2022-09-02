@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir -m 751 dir -holberton
-=======
-mkdir -m 751 dir-holberton
->>>>>>> fb79b6300f048141f1ef6405c1ab65cbf7a53fe1
+mkdir -m 751 dir-my_dir
